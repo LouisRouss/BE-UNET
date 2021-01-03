@@ -1,0 +1,1 @@
+plt.imshow(isbi.train[0].reshape(512,512),cmap = 'gray')

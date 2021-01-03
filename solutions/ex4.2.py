@@ -1,0 +1,1 @@
+plt.imshow(isbi.targets[0].reshape(512,512),cmap='gray')
